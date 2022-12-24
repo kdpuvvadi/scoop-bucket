@@ -3,7 +3,6 @@
     "url": "https://prerelease.keybase.io/keybase_setup_amd64.msi",
     "version": "6.1.0.4",
     "hash": "2e023c4826cfd21d095f69262d15ea2b01cc4c5e56d9c14ad8125f3c4bce3135",
-    "bin": "keybase_setup_amd64.msi",
     "shortcuts": [
         [
             "Keybase"
