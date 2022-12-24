@@ -1,0 +1,21 @@
+{
+    "version": "1.61.1",    
+    "description": "rsync for cloud storage",
+    "homepage": "https://rclone.org/",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/rclone/rclone/releases/download/v1.61.1/rclone-v1.61.1-windows-amd64.zip",
+            "hash": "99daaa95867cdf0758ec1d5d7f2ebdb3bf74c8c8602e2aaf888e637163d2ebdd"
+        },
+        "32bit": {
+            "url": "https://github.com/rclone/rclone/releases/download/v1.61.1/rclone-v1.61.1-windows-386.zip",
+            "hash": "79ae4620212f13c7881985eb57c819c01e8faa66b14ec44827a641848d93b76b"
+        },
+        "arm64": {
+            "url": "https://github.com/rclone/rclone/releases/download/v1.61.1/rclone-v1.61.1-windows-arm64.zip",
+            "hash": "5b8d5d644183b44b2b7387394d321875fb49da9dc333f8489d22d8f792189538"
+        }
+    },
+    "extract_to": "tools" 
+}
